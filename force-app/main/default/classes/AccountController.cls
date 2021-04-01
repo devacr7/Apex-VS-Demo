@@ -7,4 +7,4 @@ public with sharing class AccountController {
             Account[] acc=[Select id from Account];
         }
     }
-  }
+  }  //changes made
